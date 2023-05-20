@@ -4,7 +4,7 @@ The third project for [Frontend Mentor](https://www.frontendmentor.io/), was a c
 
 ### Live Example
 
-- [Go to Live Example](https://qr-code-frontendmentor-by-zuhaz.netlify.app/)
+- [Go to Live Example](https://product-prv-crd-frontendmentor-zuhaz.netlify.app/)
 
 ### Screenshot
 
