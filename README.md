@@ -1,6 +1,6 @@
 # Frontend Mentor - Product Preview Card
 
-The third project for [Frontend Mentor](https://www.frontendmentor.io/), was a challenging project, in the end figured out that how the things should work. Learned alot and looking forward to learn further more.
+The third project for [Frontend Mentor](https://www.frontendmentor.io/) was a challenging project, in the end figured it out that how the things should work. Learned alot and looking forward to learn further more.
 
 ### Live Example
 
